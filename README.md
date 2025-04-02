@@ -69,8 +69,3 @@ This project demonstrated how energy infrastructure data can be transformed into
 
 ---
 
-## 📎 Screenshots
-
-
----
-
